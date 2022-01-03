@@ -14,3 +14,19 @@
 - CSS
 - JavaScript (Basics)
 - Git
+
+## Example code
+`function multiply(a, b) {  
+  return a * b  
+} `
+
+## Projects
+<https://github.com/IlyaDushkin/rsschool-cv/blob/main/README.md>
+
+
+## Education
+Saint-Petersburg University of State Fire Service Emercom of Russia
+
+## Language
+- English – A2
+- Russian – C2
