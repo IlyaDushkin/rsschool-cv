@@ -16,12 +16,12 @@
 - Git
 
 ## Example code
-`function multiply(a, b) {  
-  return a * b  
+`function multiply(a, b) {    
+  return a * b    
 } `
 
 ## Projects
-<https://github.com/IlyaDushkin/rsschool-cv/blob/main/README.md>
+<https://IlyaDushkin.github.io/rsschool-cv/cv>
 
 
 ## Education
