@@ -16,9 +16,14 @@
 - Git
 
 ## Example code
-```function multiply(a, b) {    
-  return a * b    
-} ```
+```
+function multiply(a, b) {  
+
+  return a * b  
+
+}  
+
+```
 
 ## Projects
 <https://IlyaDushkin.github.io/rsschool-cv/cv>
