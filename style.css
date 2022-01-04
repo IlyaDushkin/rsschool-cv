@@ -1,3 +1,18 @@
 .header {
-    color: blue;
+    background-color: rgb(11, 173, 152);
+}
+.container {
+padding: 30px;
+margin: 10px;
+}
+.shap {
+    display: flex;
+    flex-direction: row;
+}
+.shap a {
+    color: rgb(255, 0, 0)
+}
+.shap li {
+    padding: 20px;
+    list-style-type: none;
 }
