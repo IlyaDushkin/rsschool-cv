@@ -50,7 +50,7 @@ footer {
     background-color: #454547;
     padding: 40px;
     color: #fff;
-    font-size: 20px;
+    font-size: 30px;
 
 }
 .rssc {
@@ -80,4 +80,7 @@ p {
 }
 a {
     color: #001830;
+}
+footer p {
+    font-size: 30px;
 }
